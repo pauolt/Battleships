@@ -41,6 +41,7 @@ public class Main {
             System.out.println();
         }
         //Programar que el usuario pueda elegir una posicion?
+        //Posible solucion= Contains char(i)??
 
     }
 }
